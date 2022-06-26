@@ -1,0 +1,61 @@
+p {color: #64B6AC;
+   font-size: 16px;
+ font-weight:10;
+  font-style: oblique}
+h2 {color:   black; 
+    font-family:Freestyle Script;
+   font-size: 40px}
+
+b  {background-color:#c0fdfb}
+body {text-align: centre; 
+     background-image: url("Ashie.jpg"); 
+     background-repeat: no-repeat;
+     background-size: 650px 700px }
+
+img  {width: 400px;
+      length: 400px }
+
+.intro {background-color:#dfbafd ;
+       padding:30px 30px 30px 30px;
+       margin:10px 10px 10px 10px;
+       border:5px solid #35a7a1;
+       color: #35a7a1;
+       font-family:Harrington;
+       font-size:20px}
+
+iframe {background-color: #F05E16:
+        padding: 20px 20px;
+        border: 6px }
+
+nav{
+  background-color: #fff8e7;
+   color: #598b91;
+  font-size: 20px;
+  margin-top: 0;
+  padding:0;
+}
+nav a{
+   color:#35a7a1;
+   margin-right: 20px;
+}
+nav a:hover{
+  color: #174745;
+  background-color:#fff8e7;
+}
+title {text-align:center; }
+
+.Pawn {
+  width: 18%;
+}
+.Knight {width: 18%; }
+
+.Bishop {width: 18%; }
+
+.Rook {width:18%; }
+
+.Queen {width: 18%; }
+
+.King  {width: 18%; }
+
+h4 { font-family: Garamond;
+   font-size: 30px; }
